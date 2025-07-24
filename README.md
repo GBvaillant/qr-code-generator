@@ -60,9 +60,8 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://qr-code-bucket-test
 }
 ```
 
-## 📂 Estrutura da Resposta
+## QR-CODE Gerado 📷
+![QR Code Example](./assets/qr-code-image.png)
 
-* `text`: URL pública (simulada) do QR Code armazenado no S3
 
-
-Feito com 💻 por [Gabriel Vaillant](https://github.com/GBvaillant)
+Feito por [Gabriel Vaillant](https://github.com/GBvaillant)
