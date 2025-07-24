@@ -64,4 +64,4 @@ aws --endpoint-url=http://localhost:4566 s3 mb s3://qr-code-bucket-test
 ![QR Code Example](./assets/qr-code-image.png)
 
 
-Feito por [Gabriel Vaillant](https://github.com/GBvaillant)
+Feito por [Gabriel Vaillant](https://www.linkedin.com/in/gb-vaillant/)
